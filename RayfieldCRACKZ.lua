@@ -2479,3 +2479,5 @@ if Rayfield:FindFirstChild("Notice") then
 		Rayfield.Notice.Visible = false
 	end)
 end
+
+return RayfieldLibrary
